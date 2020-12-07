@@ -1,1 +1,1 @@
-Download the real netwwork data studied in the paper "An intelligent-agent network theory to uncover the hidden interaction multiplexity of complex systems" via https://pan.baidu.com/s/18klnhubNMPMo5-yn5I8nGg (password: fj7q). 
+Unzip the real netwwork data studied in the paper "An intelligent-agent network theory to uncover the hidden interaction multiplexity of complex systems" before running the code in this package. 

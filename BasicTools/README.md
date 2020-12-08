@@ -1,1 +1,1 @@
-This package contains the codes of basic tools used in the analysis of RIMs of networks which are introduced in the paper "An intelligent-agent network theory to uncover the hidden interaction multiplexity of complex systems".
+This package contains the codes of basic tools used in the analysis of RIMs of networks which are introduced in the paper "An intelligent-agent network theory and hidden interaction multiplexities of complex systems".

@@ -1,4 +1,4 @@
-# In this project, we measure the accuracy of the identifiers introduced in the paper "An intelligent-agent network theory to uncover the hidden interaction multiplexity of complex systems".
+# In this project, we measure the accuracy of the identifiers introduced in the paper "An intelligent-agent network theory and hidden interaction multiplexities of complex systems".
 # Before runing this project, PROJECT1 should be completed first.
 
 from BasicTools.identifier import get_Hs, classifier

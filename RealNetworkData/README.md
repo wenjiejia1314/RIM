@@ -1,1 +1,1 @@
-Unzip the real netwwork data studied in the paper "An intelligent-agent network theory and hidden interaction multiplexities of complex systems" before running the code in this package. 
+Unzip the real netwwork data studied in the paper "Interaction multiplexity revealed by an intelligent-agent network theory" before running the code in this package. 

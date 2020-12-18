@@ -1,4 +1,4 @@
-# In this source file, the code for the classifiers introduced in the paper "An intelligent-agent network theory to uncover the hidden interaction multiplexity of complex systems" is provided.
+# In this source file, the code for the classifiers introduced in the paper "Interaction multiplexity revealed by an intelligent-agent network theory" is provided.
 # Before runing the functions in this source file, PROJECT1 should be completed first.
 import pandas as pd
 import numpy as np
